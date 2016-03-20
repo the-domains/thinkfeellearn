@@ -1,6 +1,6 @@
 name: thinkfeellearn
 favicon: null
-layout_spectrum: 0.77997
+layout_spectrum: 0.50044
 typography_spectrum: 0.49278
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdfdfd'
-    - '#1b0000'
-    - '#86817f'
-    - '#ff0003'
-    - '#583d39'
-  brandStrength: 0.25
+    - '#fafbfd'
+    - '#b8b4b3'
+    - '#000000'
+    - '#fe0005'
+    - '#5b4843'
+  brandStrength: 0.5
   lightness: 0.25190891278907657
   saturation: 0.9747300997842103
   rhythmicContrast: 0.20213487790897489
