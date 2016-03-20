@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thinkfeellearn]]></title>
+        <description><![CDATA[thinkfeellearn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 17:43:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rethinking How We Experience School with Heart Centered Education]]></title>
+            <description><![CDATA[<article><h1>Rethinking How We Experience School with Heart Centered Education</h1><p>When both a student and a teacher walk into that classroom, they bring with them their lifetime of  feelings, relationships and knowledge.  Days, years, and whole lives enter those doors.</p></article>]]></description>
+            <link>undefinedwhen-both-a-student-and-a-teacher-walk-into-that-classroom/index.html</link>
+            <guid isPermaLink="false">1e4dd33e-e952-4064-99d1-0ae67731a876</guid>
+            <pubDate>Sun, 20 Mar 2016 17:42:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
