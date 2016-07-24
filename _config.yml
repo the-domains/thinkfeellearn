@@ -1,4 +1,4 @@
-name: thinkfeellearn
+name: Mid-City
 favicon: null
 layout_spectrum: 0.27141
 typography_spectrum: 0.49278
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020202'
-    - '#a36100'
-    - '#b6ad98'
-    - '#004066'
-    - '#43722a'
+    - '#080808'
+    - '#5e5955'
+    - '#dde2e6'
+    - '#919297'
+    - '#c46c5d'
   brandStrength: 0.5
   lightness: 0.25190891278907657
   saturation: 0.9747300997842103
